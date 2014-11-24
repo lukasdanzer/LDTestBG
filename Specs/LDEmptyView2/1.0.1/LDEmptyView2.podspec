@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name     = 'LDEmptyView2’
+    s.name     = 'LDEmptyView2'
     s.version  = '1.0.1'
     s.platform = :ios, '8.1'
     s.ios.deployment_target = "8.1"
